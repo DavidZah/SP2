@@ -1,4 +1,4 @@
-refs= [ 'data\\CZ_KKY_APK_dump.ref-1.pkl']
+refs= ['data\\CZ_KKY_APK_dump.ref-1.pkl']
 
 import pickle
 import time
